@@ -1,12 +1,13 @@
-baseurl = "https://example.org"
+baseurl = "https://earte-usj.github.io/arquitecturas-opensource-hugo/"
 title = "Arquitecturas OpenSource"
 theme = "hugo-universal-theme"
+publishDir = "public"
 #themesDir = "../.."
-languageCode = "es"
+
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -34,7 +35,7 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "Contacto"
     url  = "/contact/"
     weight = 4
 
