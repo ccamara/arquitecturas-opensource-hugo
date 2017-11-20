@@ -22,9 +22,9 @@ external_link = "http://zaccesible.usj.es"
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-<!-- [header]
-image = "projects/zaccesible/zaccesible-cartel-aps.png"
-caption = "" -->
+#[header]
+#image = "projects/zaccesible/zaccesible-cartel-aps.png"
+#caption = ""
 
 
 +++
