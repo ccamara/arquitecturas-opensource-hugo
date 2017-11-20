@@ -1,4 +1,4 @@
-baseurl = "https://earte-usj.github.io/arquitecturas-opensource-hugo/"
+baseurl = "https://arquitecturasopensource.netlify.com/"
 title = "Arquitecturas OpenSource"
 theme = "hugo-universal-theme"
 publishDir = "public"
