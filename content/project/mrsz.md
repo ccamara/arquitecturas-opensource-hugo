@@ -33,8 +33,7 @@ de la ETSA-USJ ha iniciado una colaboración con el Colegio Profesional de
 Trabajadores Sociales de Aragón para la realización conjunta de un mapa
 de riesgo social de Zaragoza. Dicho proyecto, financiado desde el Ministerio de
 Economía y Competitividad, pretende desarrollar el concepto de mapa de riesgo
-anunciado en la Ley de de 2009 de Ordenación del Territorio de Aragón me-
-diante el diseño de una metodología mixta que ofrezca un procedimiento
+anunciado en la Ley de de 2009 de Ordenación del Territorio de Aragón mediante el diseño de una metodología mixta que ofrezca un procedimiento
 alternativo para la evaluación de las zonas y barrios de Zaragoza más sensibles
 a la pérdida de relaciones sociocomunitarias de vecindad y de interrelación
 con el resto de la ciudad. El objetivo es lograr una metodología que incorpore
