@@ -25,7 +25,7 @@ abstract = "Ante la evaluación del riesgo social, habitualmente basada en la cu
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "https://static.wixstatic.com/media/436ccc_91cab54c0d2c4d349910d04c26953076~mv2.jpg/v1/fill/w_164,h_240,al_c,q_80,usm_0.66_1.00_0.01/436ccc_91cab54c0d2c4d349910d04c26953076~mv2.jpg"
+image_preview = "publications/clivatge.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
