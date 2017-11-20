@@ -3,7 +3,7 @@ title = "Arquitecturas OpenSource"
 theme = "academic"
 publishDir = "public"
 
-copyright = "&copy; 2017 Your Name"
+copyright = "&copy; 2017 Arquitecturas OpenSource"
 
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -274,5 +274,8 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
-  languageCode = "en-us"
+#[Languages.en]
+#  languageCode = "en-us"
+
+[Languages.es]
+  languageCode = "es"
