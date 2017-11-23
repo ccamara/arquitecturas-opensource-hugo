@@ -1,5 +1,5 @@
-# Prose settings (visit: https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
+  # Prose settings (visit: https://github.com/prose/prose/wiki/Prose-Configuration)
   rooturl: 'content'
   media: 'static/images'
   users:
