@@ -1,33 +1,29 @@
-+++
-# Date this page was created.
-date = "2016-04-27"
-
-# Project title.
-title = "Zaragoza Accesible"
-
-# Project summary to display on homepage.
-summary = "Proyecto de mapeado colaborativo de aspectos relacionados con la discapacidad y la movilidad."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/zaccesible/zaccesible-cartel-aps.png"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["accesibilidad", "OpenStreetMap"]`
-tags = ["accesibilidad", "OpenStreetMap"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "http://zaccesible.usj.es"
-
-# Does the project detail page use math formatting?
-math = false
+---
+date: 2016-04-27
+title: Zaragoza Accesible
+summary: Proyecto de mapeado colaborativo de aspectos relacionados con la discapacidad.
 
 # Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "projects/zaccesible/zaccesible-cartel-aps.png"
-#caption = ""
+#header:
+  # caption: 'MRSZ: unidades de barrio de zaragoza y desglose en unidades de toma de
+  #   datos.'
+  # image: projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png
 
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview: projects/zaccesible/zaccesible-cartel-aps.png
 
-+++
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags:
+  - accesibilidad
+  - OpenStreetMap
+
+# Optional external URL for project (replaces project detail page).
+external_link: "http://zaccesible.usj.es"
+
+# Does the project detail page use math formatting?
+math: false
+---
 
 Zaragoza Accesible es un proyecto de mapeado colaborativo de aspectos relacionados con la discapacidad y la movilidad en Zaragoza impulsado por el grupo de investigación Arquitecturas OpenSource de la Escuela de Arquitectura y Tecnología de la Universidad San Jorge y desarrollado conjuntamente con el grupo residente de Zaragoza Activa
 [Mapeado Colaborativo](http://mapcolabora.org). Gracias a las observaciones de campo sobre realizadas por voluntarias y a OpenStreetMap, esperamos realizar un mapa de toda Zaragoza que facilite la movilidad de las personas con diversidad funcional.
