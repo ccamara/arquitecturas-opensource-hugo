@@ -1,32 +1,27 @@
-+++
-# Date this page was created.
-date = "2015-04-27"
+---
+date: 2015-04-27
 
-# Project title.
-title = "Mapa de Riesgo Social de Zaragoza"
+title: Mapa de Riesgo Social de Zaragoza
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-# Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png"
+# Optional featured image (relative to `static/img/` folder).
+header:
+  caption: 'MRSZ: unidades de barrio de zaragoza y desglose en unidades de toma de
+    datos.'
+  image: projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png
+image_preview: projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["vulnerabilidad"]
+tags:
+- vulnerabilidad
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+#external_link: ""
 
 # Does the project detail page use math formatting?
-math = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png"
-caption = "MRSZ: unidades de barrio de zaragoza y desglose en unidades de toma de datos."
-
-+++
+math: false
+---
 
 Desde finales de 2013 el grupo de investigación Arquitecturas Open Source
 de la ETSA-USJ ha iniciado una colaboración con el Colegio Profesional de
