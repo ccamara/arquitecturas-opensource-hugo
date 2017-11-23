@@ -1,6 +1,12 @@
+# Prose settings (visit: https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   rooturl: 'content'
   media: 'static/images'
+  users:
+    - login: "ccamara"
+      user: "Carlos Cámara Menoyo"
+    - login: "anrv"
+      user: "Ana Ruiz Varona"
   metadata:
     content/publication:
       - name: "title"
@@ -14,8 +20,7 @@ prose:
           label: "Fecha"
           placeholder: "Fecha en formato aaaa-mm-dd (año-mes-día)"
           value: CURRENT_DATETIME
-
-    post:
+    content/blog:
       - name: "title"
         field:
           element: "text"
@@ -31,6 +36,7 @@ prose:
           element: "textarea"
           label: "Author"
           placeholder: "Must be in format FirstnameLastname - e.g. JohnGriffin"
+          value: CURRENT_USER
       - name: "slug"
         field:
           element: "text"
@@ -60,8 +66,3 @@ prose:
           element: "text"
           label: "Url"
           value: ""
-  users:
-    - login: "ccamara"
-      user: "Carlos Cámara Menoyo"
-    - login: "anrv"
-      user: "Ana Ruiz Varona"
